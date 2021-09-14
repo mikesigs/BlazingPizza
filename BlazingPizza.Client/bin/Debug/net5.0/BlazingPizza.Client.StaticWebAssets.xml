@@ -1,8 +1,0 @@
-﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="_content/BlazingComponents" Path="C:\Code\GitHub\blazor-workshop\save-points\00-get-started\BlazingComponents\obj\Debug\net5.0\scopedcss\projectbundle\" />
-  <ContentRoot BasePath="_content/BlazingComponents" Path="C:\Code\GitHub\blazor-workshop\save-points\00-get-started\BlazingComponents\wwwroot\" />
-  <ContentRoot BasePath="_content/BlazingPizza.ComponentsLibrary" Path="C:\Code\GitHub\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\wwwroot\" />
-  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\mikes\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\5.0.0\build\..\staticwebassets\" />
-  <ContentRoot BasePath="/" Path="C:\Code\GitHub\blazor-workshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Code\GitHub\blazor-workshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net5.0\scopedcss\bundle\" />
-</StaticWebAssets>
