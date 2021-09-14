@@ -1,0 +1,6 @@
+mode: Mainline
+branches: 
+  hotfix:
+    tag: "hotfix-{BranchName}"
+ignore:
+  sha: []
