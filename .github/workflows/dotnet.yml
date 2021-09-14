@@ -29,8 +29,7 @@ jobs:
         useConfigFile: true  
 
     - name: Display SemVer
-      run: |
-        echo "SemVer: $GITVERSION_SEMVER"
+      run: echo 'SemVer:' $GITVERSION_SEMVER
     
     - name: Setup .NET
       uses: actions/setup-dotnet@v1
