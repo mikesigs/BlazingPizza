@@ -44,3 +44,7 @@ jobs:
     
     - name: Test
       run: dotnet test --no-build --verbosity normal
+    
+    - name: Install Octopus CLI
+      # You may pin to the exact commit or the version.
+      uses: OctopusDeploy/install-octopus-cli-action@aee5b620e9107e6ef3ae0cbd25dfde10e0910168
