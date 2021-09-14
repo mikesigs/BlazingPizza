@@ -31,9 +31,6 @@ jobs:
     - name: Display SemVer
       run: |
         echo "SemVer: $GITVERSION_SEMVER"
-        
-    - name: GitTools
-      uses: GitTools/actions@v0.9.10
     
     - name: Setup .NET
       uses: actions/setup-dotnet@v1
