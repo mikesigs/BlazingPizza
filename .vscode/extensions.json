@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "adrianwilczynski.blazor-snippet-pack",
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.blazorwasm-companion",
+        "kevin-chatham.aspnetcorerazor-html-css-class-completion"
+    ]
+}
